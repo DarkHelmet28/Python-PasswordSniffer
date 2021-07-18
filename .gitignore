@@ -8,6 +8,9 @@ __pycache__/
 poetry.lock
 pyproject.toml
 
+# VS Code
+.vscode/
+
 # C extensions
 *.so
 
